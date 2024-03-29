@@ -20,4 +20,4 @@ If the customer decides to stop ordering, the script displays the final order su
 The total cost of the order is calculated and presented to the customer.
 
 Know Issues:
--Spacing issues may occur if the menu items are increased beyond $99.99
+-Spacing issues may occur in the menu items output and receipts if menu prices are increased beyond $99.99
