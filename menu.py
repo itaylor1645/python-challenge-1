@@ -187,7 +187,7 @@ while place_order:
         if keep_ordering.lower() in valid_inputs_no:
             place_order = False
             # Since the customer decided to stop ordering, thank them for
-            print("Thanks you for your order!")
+            print("Thank you for your order!")
             # Exit the keep ordering question loop
             break
             # their order
